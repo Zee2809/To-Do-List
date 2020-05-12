@@ -1,0 +1,22 @@
+{
+  "name": "to-do-list",
+  "version": "1.0.0",
+  "description": "An sheKNowsCode project that enables user.s to be able to add,delete and edit items on a to do list",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zee2809/To-Do-List.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zee2809/To-Do-List/issues"
+  },
+  "homepage": "https://github.com/Zee2809/To-Do-List#readme",
+  "dependencies": {
+    "bootstrap": "^4.4.1"
+  }
+}
